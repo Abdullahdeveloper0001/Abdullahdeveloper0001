@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Banner.png" width="100%" alt="Profile Banner" />
+</p>
+
 <h1 align="left">Hey, I'm <span style="color:#0078D4;">Muhammad Abdullah</span></h1>
 
 <p align="left">
